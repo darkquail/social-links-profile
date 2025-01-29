@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/darkquail/social-links-profile)
-- Live Site URL: [darkquail](https://darkquail.github.io/social-links-profile)
+- Live Site URL: [darkquail](https://darkquail.github.io/social-links-profile/index.html)
 
 ## My process
 
