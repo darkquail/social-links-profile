@@ -58,6 +58,7 @@ body {
 .card-container__card-user-avatar {
     border-radius: 50%;
     width: 80px;
+    margin-bottom: 0.8rem;
 }
 
 .card-container__card-user-socials {
